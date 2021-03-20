@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "Test text",
+      "id": 1
+    },
+    {
+      "title": "Book keeping",
+      "text": "Check every monday",
+      "id": 2
+    },
+    {
+      "title": "yes sirr",
+      "text": "Here is a note",
+      "id": 3
+    },
+    {
+      "title": "Blue is the best color",
+      "text": "according to the blue man group",
+      "id": 4
+    }
+  ],
+  "nextId": 5
+}
