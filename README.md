@@ -7,6 +7,8 @@ This application has a simple note creation and tracking service.
 
 ## Deployed
 
+URL Deployed: https://damp-spire-27597.herokuapp.com/
+Git Repo: https://github.com/nathan-potts41/note-taker
 
 ### Table of Contents
 
